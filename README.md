@@ -6,6 +6,10 @@ Check out the [django-nuxt repository](https://github.com/toniengelhardt/django-
 
 **Feel free to contribute!**
 
+## Websites
+
+- [NASA JPL](https://www.jpl.nasa.gov/) - Jet Propulsion Laboratory official website
+
 ## PWAs
 
 - [Journalistic](https://journalisticapp.com) – Micro Journaling App
